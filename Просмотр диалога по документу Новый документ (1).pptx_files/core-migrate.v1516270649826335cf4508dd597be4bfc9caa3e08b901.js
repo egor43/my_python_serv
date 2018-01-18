@@ -1,0 +1,2 @@
+if("undefined"!==typeof window){var global=function(){return this||(0,eval)("this")}();global._callbackStorage=global._callbackStorage||[],global._singleStoreStorage=global._singleStoreStorage||[],global._withCompStorage=global._withCompStorage||[]}
+//# sourceMappingURL=core-migrate.js.map

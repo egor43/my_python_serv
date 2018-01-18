@@ -1,0 +1,2 @@
+define("Lib/Type/CustomType",["Core/core-extend","Core/core-functions"],function(t,i){"use strict";return t({},{$protected:{_options:{}},updateProperties:function(t){i.propertyMerge(t,this._options),this.init()},init:function(){for(var t in this._options)if(this._options.hasOwnProperty(t))this[t]=this._options[t]},isCustomType:function(){return true},isConfigured:function(){return false}})});
+//# sourceMappingURL=CustomType.js.map

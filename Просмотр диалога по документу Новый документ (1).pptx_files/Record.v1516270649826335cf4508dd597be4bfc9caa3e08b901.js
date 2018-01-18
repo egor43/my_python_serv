@@ -1,0 +1,2 @@
+define("Transport/Record",["Deprecated/Record","Core/deprecated"],function(e,r){return r.showInfoLog("Transport/Record помечен как deprecated и будет удален в 3.18. Используйте WS.Data/Entity/Record."),e});
+//# sourceMappingURL=Record.js.map

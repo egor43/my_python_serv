@@ -1,0 +1,2 @@
+define("Core/core-init",["Core/core-init-min","Core/Context"],function(e,n){return"undefined"===typeof window?e:e.addCallback(function(){var e=location.search;if(0===e.indexOf("?"))for(var o=e.substr(1).split("&"),i=0,t=o.length;i<t;i++){var r=o[i].indexOf("="),d=decodeURIComponent(o[i].substring(0,r));if(d)n.global.setValue(d,decodeURIComponent(o[i].substring(r+1)))}})});
+//# sourceMappingURL=core-init.js.map

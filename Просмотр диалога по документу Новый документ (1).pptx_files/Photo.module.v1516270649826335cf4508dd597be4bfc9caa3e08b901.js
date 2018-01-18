@@ -1,0 +1,2 @@
+define("js!SBIS3.PrivateFace.Photo",["Core/core-extend","js!SBIS3.PersonCore.Photo"],function(e,t){return e(t,{generateData:function(e,t,o,r){if(t===this.TYPE_BIG)t="";else t="_mini";return this._generateData(e,{objectBL:"ЧастноеЛицо",methodBL:"ПолучитьФото"+t,filterById:"ИдО",serviceURL:o})}}).prototype});
+//# sourceMappingURL=Photo.module.js.map

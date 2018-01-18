@@ -1,0 +1,2 @@
+define("js!SBIS3.Person.Photo",["js!SBIS3.PersonCore.Photo"],function(e){return e.extend({generateData:function(e,t,n,o,r){if(void 0===o)o=true;if(t===this.TYPE_BIG)t="default";else t="mini";return this._generateData(e,{objectBL:"СервисПрофилей",methodBL:"Фото",filterById:"Персона",params:{"Тип":t},serviceURL:n},o?null:{showMiniCard:false})}}).prototype});
+//# sourceMappingURL=Photo.module.js.map

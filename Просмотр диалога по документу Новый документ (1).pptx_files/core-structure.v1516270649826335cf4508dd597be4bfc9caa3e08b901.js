@@ -1,0 +1,2 @@
+define("Core/core-structure",["Core/Deferred","Core/constants","Core/ConsoleLogger"],function(e,r,o){if("undefined"!==typeof window)return{};var n=function(){return this||(0,eval)("this")}();if(!n.$ws)n.$ws={proto:{Deferred:e,ConsoleLogger:o},_const:r};return n.$ws});
+//# sourceMappingURL=core-structure.js.map

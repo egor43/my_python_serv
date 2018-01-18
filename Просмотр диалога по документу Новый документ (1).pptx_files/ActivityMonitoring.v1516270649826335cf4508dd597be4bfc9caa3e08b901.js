@@ -1,0 +1,2 @@
+require(["Core/core-init"],function(i){i.addCallback(function(i){return require(["Core/EventBus"],function(i){i.globalChannel().once("bootupReady",function(){require(["js!SBIS3.Activity.ActivityMonitor","js!SBIS3.Activity.UserStatusInitializer"])})}),i})});
+//# sourceMappingURL=ActivityMonitoring.js.map

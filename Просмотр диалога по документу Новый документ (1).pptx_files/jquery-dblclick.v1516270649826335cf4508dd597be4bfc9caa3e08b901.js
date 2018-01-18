@@ -1,0 +1,2 @@
+define("Core/jquery-dblclick",["Core/detection"],function(i){(function(e){if(i.isMobileAndroid||i.isMobileSafari)e.fn.wsFixedClick=function(i,e){return this.on("click",i,e)};else e.fn.wsFixedClick=function(i,n,c){return this.on("click",i,function(i){var c=e(this),t=c.data("wsClickTime"),l=(new Date).getTime();if(t&&Math.abs(l-t)<=300)c.data("wsClickTime",void 0);else c.data("wsClickTime",l),n.call(this,i)}).on("dblclick",i,function(i){c.call(this,i)})}})(jQuery)});
+//# sourceMappingURL=jquery-dblclick.js.map

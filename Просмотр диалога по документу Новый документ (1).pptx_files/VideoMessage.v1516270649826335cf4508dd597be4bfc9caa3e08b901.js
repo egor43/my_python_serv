@@ -1,0 +1,2 @@
+define("SBIS.VideoCall/VideoMessage",["Core/detection"],function(e){var i=function(){if(this._videoMsgAvailability="undefined"!==typeof window&&function(){var i=window.mozRTCPeerConnection||window.webkitRTCPeerConnection||window.RTCPeerConnection;return i&&!!i.prototype||e.isMobileIOS||e.isMobileAndroid}(),"undefined"!==typeof window)require(["/vmsg/vm.js"])};return i.prototype.isVmsgAvailable=function(){return this._videoMsgAvailability},new i});
+//# sourceMappingURL=VideoMessage.js.map

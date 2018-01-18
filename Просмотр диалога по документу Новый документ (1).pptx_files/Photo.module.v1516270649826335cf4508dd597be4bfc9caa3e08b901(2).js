@@ -1,0 +1,2 @@
+define("js!SBIS3.PersonCore.Photo",["Core/core-extend","Core/helpers/transport-helpers","Core/UserInfo","css!SBIS3.PersonCore.Photo"],function(e,r,o){return e({},{$protected:{_options:{}},$constructor:function(e){},TYPE_BIG:"Big",TYPE_MINI:"Mini",_generateData:function(e,t,n){var s,i=t.params||{};if(i[t.filterById]=e,s=r.prepareGetRPCInvocationURL(t.objectBL,t.methodBL,i,null,t.serviceURL,o.get("ИдентификаторКлиента")),!n||false!==n.showMiniCard)return{url:s,oid:e};else return{url:s}}})});
+//# sourceMappingURL=Photo.module.js.map

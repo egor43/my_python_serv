@@ -1,0 +1,2 @@
+define("Deprecated/helpers/functional-helpers",[],function(){return{compareValues:function(n,e){var r;if(n&&n.equals)r=n.equals(e);else r=n==e;return r},methodCaller:function(n,e){return function(r){if(r)return e?r[n].apply(r,e):r[n]();else return}},constant:function(n){return function(){return n}},nop:function(){}}});
+//# sourceMappingURL=functional-helpers.js.map

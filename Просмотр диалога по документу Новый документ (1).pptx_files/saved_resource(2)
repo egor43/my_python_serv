@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="538" height="48"  version="1.1">
+      	<defs>
+      	  <style type="text/css">
+         	text {
+                  -webkit-touch-callout: none;
+                  -webkit-user-select: none;
+                  -khtml-user-select: none;
+                  -moz-user-select: none;
+                  -ms-user-select: none;
+                  user-select: none;
+                  cursor: pointer;
+         		}
+            text {
+                  font-family: Segoe UI, PT Sans, Open Sans, Helvetica Neue, Lucida-Grande, Arial, sans-serif, Tahoma
+               }
+               </style>
+      	</defs>
+      <a xlink:href="https://test-online.sbis.ru/open_dialog.html?guid=33fed441-6718-43c0-b74a-b07543a8fccb" target="_blank">
+      <rect width="100%" height="100%" style="fill: #F9F9F9;"></rect>
+      <rect width="3" height="40" style="fill: #72BE44;" y="4" x="4"></rect>
+      <image x="15" y="4" width="40" height="40" preserveAspectRatio="none"  xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAE50lEQVRYw+2Y229UVRSHv7XPOdPp/QKUS4CmkFAu5RKtJiBKlYT4oNEYePVv8U/xSR81EZUHxXhBDZRqAw2USyi2hQKlDLQztDNnr+XDGdsRoXNpCzy4kv12TvZ3fr+11l5nC/0fGy9xhPBS8+FeNEC5CF9yAStXUMIIcQHPOyVcsmGZZUpq7SbSew7jUunyz6/gqkxBgThzD+naT3TgWAJpz0dJV9mHCD43i10fQHb3U/fa+wT1zQnkKotYRZsx8hMj1Odn0d1HSIUR+YGv8TMPQGQVFSwTEkaLiNkM8dgw5gJczyHqDh0nbOsE09UEXLo4og3dBD0HcelGdD5HPH6ZeD6HiUO2vULqjROEazaBajEvq1xl3gnYuveTJT9BPbLvGLJpJ1KYRzK3oWMzvrUTEZCWToKOjdj0LXS2Grst+SgXLJllAV29SwLafA6Xz2I9b6Jd+3EILoC4dSMqkgA1ryHs7ILMJDo7XQGb4erqkfXdhJ1d2MwUqH8GYDkFAXKPcE3t6LpubM0WrLEDi9IYwkL2Nbbh1nfjstNo5m7RulI1DQlCgtb1BNtfxXqPwo7DSOY2eufGM1UM2Lq0ggDmC7j5GaRzG1bfktjiAhAHZihgAtQ34zbuwM3NoJnJxeIxQ1Jpoj396L530e190L6FcOIiOnQKK+T//S0lUWGjdsT3xnCjAxDnEVPE+3+ESSDViNWIG9uwg8eJdh/GhVECFwSkdh0m3vk21tiOhXXIzD1s+DQ6l1sybys76ooV7a+dI5gexxTEF0oUAtQwVbxX4nQzvu8Dwn3v4FIpoq5eCr3HsIYmxAkSFwhHfiS+O1pUbqkq3lLe4gWr83M4i5HO7RCEi1Y/7dkoha3tImpqI968H23bkMCoEUxewf/xDZaf45neVq1gUSodG0YmRzCvEOeBJ5p0UU28R1P15Hf1I2s3I/kcGLjcQ+TSD2g2U7R2JYaFxWRE53PI1TO43EPwMaJx0eonytAAVUw9mm7ApSJcfo7g5nnisUsV90uXHPhVLIT4zk2C8SGIY4hjxAwxLQEtOSVUMe/xYQpD0fFLmPqF4iq3ahr5zRfQ62cJMrcTSPWgugj55EZqSHaWYOQX9P54VTNvWNtcJ/jpScLRQaRpLRYWCwZDTBbss2IByOx93NAp/NWzWKFYGBXuG9aiYLK54W+cx23qwdftglSx3qRonSQQwdQoNvAVfuIyiw9Uo+Ay/jH08SzBlTO49s1o2I44wYp5al4Jxi/C4MnEVqSk51UDuMzRPb51hfDmINbzFkQhgmD5xwTXz2IXvkdn7i+2kxq2qtniJEqLQTE1XPYBbvg0/sqvxTN2edP2siwWEaKeg/idR9AgwmUmkKFTxKNDSTXXYOl/AWt8X4Cway/+wHtouhk3fgE59yXx1M0V/XWuTUEz3Lqt+L6PsPoWgpGf0MGT+EdTK/4DVX0OmuGa2uH1E1hjB8GfJ/EXvsPmssl8uMJRncWmuIYWwr4P8Y0duN8/S5pvXCgOryvOV4XFZrhUHdHeo2hjB/bzp9jktaTvLUwlqwJYER0uigj39KNN6/C/fY5OjYFzVHsyVA9YQaOWICDq3o82tOIHvkAf3i2xdHXvaCpS0EVpbC6LH/wWzT1a1auOpwCWV8DPZfF/XQJsRZpvlYCVxIu7hv3/jnq58TcbyPc08grwKgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wMS0xOFQxNzowODowNCswMzowMPU8gbwAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDEtMThUMTc6MDg6MDQrMDM6MDCEYTkAAAAAAElFTkSuQmCC"/><rect fill="none" x="13" y="2" rx="10px" ry="10px" width="44px" height="44px" stroke="#F9F9F9" stroke-width="4px"/><text x="60" y="20"><tspan fill="#587AB0" font-size="13" font-weight="600">Просмотр диалога</tspan></text><text x="60" y="40" font-size="13" line-height="18"><tspan fill="#000000">https://test-online.sbis.ru/open_dialog.html?guid=33fed441-6718-43c0-b74a-b07543a8fccb</tspan></text><linearGradient id="blur-gradient">
+                           <stop offset="0%" stop-color="#F9F9F9" stop-opacity="0.7" />
+                           <stop offset="100%" stop-color="#F9F9F9" stop-opacity="1"/>
+                        </linearGradient>
+                     <rect fill="url(#blur-gradient)" y="0" x="514" width="24" height="25"/><rect fill="url(#blur-gradient)" y="25" x="514" width="24" height="23"/></a>
+               </svg>
